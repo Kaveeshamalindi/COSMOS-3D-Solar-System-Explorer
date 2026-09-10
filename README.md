@@ -4,6 +4,8 @@ An interactive **3D Solar System Explorer** built using **HTML, CSS, and JavaScr
 
 Explore the planets, rotate and zoom the solar system, view planet information, search planets, and compare different worlds.
 
+---
+
 ## ✨ Features
 
 * 🪐 Interactive 3D Solar System
@@ -18,12 +20,16 @@ Explore the planets, rotate and zoom the solar system, view planet information, 
 * 📱 Responsive design
 * ⭐ Animated starfield
 
+---
+
 ## 🛠️ Technologies
 
 * HTML5
 * CSS3
 * JavaScript (ES6+)
 * CSS 3D Transforms & Animations
+
+---
 
 ## 📁 Project Structure
 
@@ -34,6 +40,8 @@ cosmos/
 ├── script.js
 └── README.md
 ```
+
+---
 
 ## 🚀 Run Locally
 
@@ -47,9 +55,13 @@ Open the project folder and launch `index.html` in your browser.
 
 You can also use **VS Code Live Server**.
 
+---
+
 ## 🌍 Planets
 
 Mercury • Venus • Earth • Mars • Jupiter • Saturn • Uranus • Neptune
+
+---
 
 ## 🔮 Future Improvements
 
@@ -58,12 +70,6 @@ Mercury • Venus • Earth • Mars • Jupiter • Saturn • Uranus • Neptu
 * Asteroid belt
 * Spacecraft exploration
 * More detailed planetary data
-
-## 👩‍💻 Author
-
-**Kaveesha Senarathne**
-
-Software Engineering Student | Web Developer | AI/ML Enthusiast
 
 ---
 
