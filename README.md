@@ -6,9 +6,13 @@ Explore the planets, rotate and zoom the solar system, view planet information, 
 
 **Live Demo:** https://kaveeshamalindi.github.io/COSMOS-3D-Solar-System-Explorer/
 
+<br>
+
 <p>
-  <img src="Images/Picture1.png" width="700"><br>
+  <img align="center" src="Images/Screenshot (1501).png" width="800">
 </p>
+
+<br>
 
 ---
 
