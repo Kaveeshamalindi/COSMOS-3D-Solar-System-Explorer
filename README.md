@@ -6,17 +6,6 @@ Explore the planets, rotate and zoom the solar system, view planet information, 
 
 **Live Demo:** https://kaveeshamalindi.github.io/COSMOS-3D-Solar-System-Explorer/
 
-<br>
-
-<p align="center">
-  <img src="Images/1.png" width="500" style="display: inline-block; margin: 0 20px;">
-  <img src="Images/2.png" width="500" style="display: inline-block;">
-  <img src="Images/3.png" width="500" style="display: inline-block; margin: 0 20px;">
-  <img src="Images/4.png" width="500" style="display: inline-block;">
-</p>
-
-<br>
-
 ---
 
 ## ✨ Features
@@ -41,6 +30,21 @@ Explore the planets, rotate and zoom the solar system, view planet information, 
 * CSS3
 * JavaScript (ES6+)
 * CSS 3D Transforms & Animations
+
+---
+
+## 📸 Screenshots
+
+<br>
+
+<p align="center">
+  <img src="Images/1.png" width="500" style="display: inline-block; margin: 0 20px;">
+  <img src="Images/2.png" width="500" style="display: inline-block;">
+  <img src="Images/3.png" width="500" style="display: inline-block; margin: 0 20px;">
+  <img src="Images/4.png" width="500" style="display: inline-block;">
+</p>
+
+<br>
 
 ---
 
