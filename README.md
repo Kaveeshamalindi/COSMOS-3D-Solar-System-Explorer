@@ -2,9 +2,17 @@
 
 An interactive **3D Solar System Explorer** built using **HTML, CSS, and JavaScript** — with no external frameworks or dependencies.
 
-Explore the planets, rotate and zoom the solar system, view planet information, search planets, and compare different worlds.
+Explore the planets, rotate and zoom the solar system, view planet information, search for planets, and compare different worlds.
 
 **Live Demo:** https://kaveeshamalindi.github.io/COSMOS-3D-Solar-System-Explorer/
+
+<br>
+
+<p align="center">
+  <img src="Images/pic1.png" width="800" style="display: inline-block;">
+</p
+
+<br>
 
 ---
 
