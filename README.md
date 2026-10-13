@@ -11,23 +11,11 @@ Explore the planets, rotate and zoom the solar system, view planet information, 
 <p align="center">
   <img src="Images/0.png" width="600" style="display: inline-block;">
   <Br>
-  <img src="Images/2.png" width="400" style="display: inline-block; margin: 0 20px;">
-  <img src="Images/3.png" width="400" style="display: inline-block;">
+  <img src="Images/1.png" width="500" style="display: inline-block; margin: 0 20px;">
+  <img src="Images/2.png" width="500" style="display: inline-block;">
   <Br>
-  <img src="Images/4.png" width="400" style="display: inline-block; margin: 0 20px;">
-  <img src="Images/5.png" width="400" style="display: inline-block;">
-  <Br>
-  <img src="Images/6.png" width="600" style="display: inline-block;">
-  <Br>
-  <img src="Images/7.png" width="400" style="display: inline-block;">
-  <Br>
-  <img src="Images/8.png" width="400" style="display: inline-block; margin: 0 20px;">
-  <img src="Images/9.png" width="475" style="display: inline-block;">
-  <Br>
-  <img src="Images/12.png" width="400" style="display: inline-block;">
-  <Br>
-  <img src="Images/10.png" width="400" style="display: inline-block; margin: 0 20px;">
-  <img src="Images/11.png" width="480" style="display: inline-block;">
+  <img src="Images/3.png" width="400" style="display: inline-block; margin: 0 20px;">
+  <img src="Images/4.png" width="400" style="display: inline-block;">
 </p>
 
 <br>
