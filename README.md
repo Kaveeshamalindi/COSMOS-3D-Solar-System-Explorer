@@ -9,6 +9,8 @@ Explore the planets, rotate and zoom the solar system, view planet information, 
 <br>
 
 <p align="center">
+  <img src="Images/Screenshot (1501).png" width="600" style="display: inline-block;">
+  <Br>
   <img src="Images/2.png" width="400" style="display: inline-block; margin: 0 20px;">
   <img src="Images/3.png" width="400" style="display: inline-block;">
   <Br>
