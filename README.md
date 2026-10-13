@@ -12,7 +12,7 @@ Explore the planets, rotate and zoom the solar system, view planet information, 
   <img src="Images/0.png" width="600" style="display: inline-block;">
   <Br>
   <img src="Images/1.png" width="400" style="display: inline-block; margin: 0 20px;">
-  <img src="Images/2.png" width="420" style="display: inline-block;">
+  <img src="Images/2.png" width="400" style="display: inline-block;">
   <Br>
   <img src="Images/3.png" width="400" style="display: inline-block; margin: 0 20px;">
   <img src="Images/4.png" width="400" style="display: inline-block;">
